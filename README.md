@@ -10,3 +10,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## How its done?
+
+See http://rdn-consulting.com/blog/2014/11/29/publishing-a-static-angularjs-application-with-docker/
