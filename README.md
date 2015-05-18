@@ -5,6 +5,8 @@ version 0.11.1.
 
 ## Build & development
 
+Run `npm install` from the root of the downloaded source folder.
+
 Run `grunt` for building and `grunt serve` for preview.
 
 ## Testing
